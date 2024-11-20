@@ -1,0 +1,13 @@
+{
+    "name": "Kux-LanguagePack-zh-CN",
+    "version": "3.0.0",
+    "title": "Kux Language Pack - zh-CN",
+    "author": "plexpt, kuxynator",
+    "description": "Provides zh-CN translations for all Kux-mods",
+	"factorio_version": "2.0",
+    "dependencies": [
+		"(?) Kux-BlueprintExtensions",
+		"(?) Kux-OrbitalIonCannon",
+		"(?) Kux-PowerPoles"	
+	]
+}
